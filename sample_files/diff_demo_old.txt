@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+Computer science is the study of computation, automation, and information.
+Data structures provide the means to store and organize data efficiently.
+Algorithms are step-by-step procedures for calculations.
+GitLite is a mini version-tracking system implemented from scratch in C++.
