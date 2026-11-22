@@ -10,7 +10,7 @@
 > **Group Members:**  
 > - **25K-0101** Adeel Sabar  
 > - **25K-0019** Syed Yahya Raza  
-> - Asmaar  
+> - **25K-0057** Muhammad Asmaar  
 > **Institution:** National University of Computer & Emerging Sciences (NUCES-FAST), Karachi Campus  
 
 ---
@@ -306,6 +306,7 @@ Department of Computer Science & Artificial Intelligence
 
 - **Adeel Sabar** (Roll No: 25K-0101)
 - **Syed Yahya Raza** (Roll No: 25K-0019)
+- **Muhammad Asmaar** (Roll No: 25K-0057)
 
 *Instructor & Course:* Data Structures Laboratory  
 *Semester:* Fall 2026 / Semester 03
