@@ -35,7 +35,7 @@
 
 ## 🚀 Project Overview
 
-Students, researchers, and writers often maintain multiple ad-hoc copies of files (`essay_final.txt`, `essay_final_v2.txt`, `essay_really_final.txt`), inevitably losing track of sentence-level changes, addition timestamps, and previous revisions. While enterprise tools like Git solve this, their internals are opaque and rely on intricate plumbing.
+Students, researchers, and writers often maintain multiple ad-hoc copies of files (`essay_final.txt`, `essay_final_v2.txt`, `essay_really_final.txt`), inevitably losing track of sentence-level changes, addition timestamps, and previous revisions. While enterprise tools like Git solve this, their internals are opaque and rely on intricate plumbing.....
 
 **GitLite** is a miniature, command-line version-tracking and diff tool built from scratch in **modern C++ (C++17)**. 
 
